@@ -179,7 +179,7 @@ header{
     
 } 
 .stylephoto{
-    background-image: url(/images/pr-5-min.jpg);
+    background-image: url(../images/pr-5-min.jpg);
     background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
@@ -575,14 +575,6 @@ span{
 }
 
 
- /* .cardLeft{
-    background-image:url(../images/crossfitcajon-min.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    width: 30%;
-    display: flex;
-}  */
 .cardRight{
     width: 100%;
     padding: 0 1rem;
